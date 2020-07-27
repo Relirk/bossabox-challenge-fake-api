@@ -1,4 +1,20 @@
 # VUTTR API
+<p align="left">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Relirk/bossabox-challenge-fake-api">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Relirk/bossabox-challenge-fake-api">
+  
+  <a href="https://github.com/Relirk/bossabox-challenge-fake-api/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Relirk/bossabox-challenge-fake-api">
+  </a>
+
+  <a href="https://github.com/Relirk/bossabox-challenge-fake-api/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Relirk/bossabox-challenge-fake-api">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
 Este repositório contém uma simples API para o desafio de front-end do BossaBox.
 Requisitos:
 * NodeJS v5.2.0+
